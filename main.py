@@ -1,7 +1,5 @@
-def hw10times():
-    for i in range(0, 10):
-        print("Hello, world!")
+def vivaMechMat():
+    print("Viva Mech-mat faculty")
 
 
-hw10times()
-
+vivaMechMat()
